@@ -7,5 +7,5 @@
 <li>Let's collaborate: cool computational biology/biochemistry projects</li>
 <li>📬Reach me: [firstname]@ebquant.com</li>
 <li>🔐 PGP Key: [https://ebquant.com/pgp-public-key/]https://ebquant.com/pgp/</a></li>
-<li>Fun fact: I operate a registered investment advisory firm @ adviserinfo.sec.gov/firm/summary/316874, used to operate an exchange and LP fund</li>
+<li>Fun fact: I operate a registered investment advisory firm (adviserinfo.sec.gov/firm/summary/316874), used to operate an exchange and LP fund</li>
 </ul>
