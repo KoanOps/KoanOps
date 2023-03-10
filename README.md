@@ -1,4 +1,4 @@
-<style> 
+<head><style> 
 .wave {
   animation-name: wave-animation;  /* Refers to the name of your @keyframes element below */
   animation-duration: 2.5s;        /* Change to speed up or slow down */
@@ -17,7 +17,7 @@
    60% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */
   100% { transform: rotate( 0.0deg) }
 }
-</style>
+</style></head>
 
 <h2>Howdy! <span class="wave">👋</span> </h2>
 <ul>
