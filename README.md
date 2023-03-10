@@ -4,5 +4,5 @@
 <li>Learning: PyTorch, AlphaFold/ESMFold/OmegaFold, scVI, Scanpy, Seurat, Genome-Scale Metabolic Models</li>
 <li>Let's collaborate: computational biology/biochemistry projects</li>
 <li>Reach me: [firstname]@ebquant.com</li>
-<li>Fun fact: I operate a registered investment advisory firm here: adviserinfo.sec.gov/firm/summary/316874, used to operate an exchange and LP fund</li>
+<li>Fun fact: I operate a registered investment advisory firm @ adviserinfo.sec.gov/firm/summary/316874, used to operate an exchange and LP fund</li>
 </ul>
